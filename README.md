@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Collaborative-Whiteboard?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Collaborative-Whiteboard?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Collaborative-Whiteboard?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,57 +66,57 @@ The market dynamics exhibit **moderate fragmentation transitioning toward an oli
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted by GitHub Star count in descending order.*
+*Sorted by GitHub Stars_Count in descending order.*
 
-- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   The leading OSI-approved open-source virtual whiteboard (MIT). Features a distinctive hand-drawn aesthetic, infinite canvas with shapes, arrows, freehand, text, images, and real-time multiplayer collaboration via WebSocket (`excalidraw-room`). Includes component libraries, local-first in-browser rendering with minimal server footprint, and export to PNG, SVG, or native format.
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   An open-source, local-first knowledge base combining docs, infinite whiteboard canvas, and multidimensional tables in one unified workspace. Every page can toggle between structured document, whiteboard diagram, and database view. Offers offline-first local storage, AI-assisted mind mapping, and self-hosting with Docker.
 
-- **[Penpot](https://github.com/penpot/penpot)** [![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
+- **[Penpot](https://github.com/penpot/penpot)** [![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)  
   Web-based open-source design and prototyping platform (MPL-2.0). Features an infinite collaborative visual canvas with native SVG support, flex/grid layouts, reusable components, interactive prototyping, and real-time multi-user editing.
 
-- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
   A polished, Figma-like infinite canvas React SDK featuring rich shape and tool plugin architecture, sticky notes, multi-page support, snapping/alignment, and experimental AI sketch-to-code features. *Licensing Note*: Source-available (requires a license key for production use since SDK 4.0; free hobby/trial tiers available).
 
-- **[Drawnix](https://github.com/plait-board/drawnix)** [![GitHub stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)  
+- **[Drawnix](https://github.com/plait-board/drawnix)** [![GitHub_Stars](https://img.shields.io/github/stars/plait-board/drawnix?style=social&color=white)](https://github.com/plait-board/drawnix/stargazers)  
   An all-in-one open-source whiteboard (MIT) integrating mind mapping, flowcharts, freehand drawing, and diagramming on an infinite canvas. Built with modern web technologies, modular architecture, and multi-mode editing capabilities.
 
-- **[draw.io (diagrams.net)](https://github.com/jgraph/drawio)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)  
+- **[draw.io (diagrams.net)](https://github.com/jgraph/drawio)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)  
   Industry-standard open-source diagramming web application (Apache-2.0). Provides rich flowcharting, network architecture, UML, and process diagram editing with extensive stencil libraries and integrations with cloud storage and self-hosted environments.
 
-- **[CryptPad Whiteboard](https://github.com/cryptpad/cryptpad)** [![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+- **[CryptPad Whiteboard](https://github.com/cryptpad/cryptpad)** [![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
   End-to-end encrypted collaboration suite (AGPL-3.0) with a dedicated whiteboard application. Client-side encryption ensures all drawings, sketches, and notes remain private and inaccessible to server administrators.
 
-- **[Lorien](https://github.com/mbrlabs/Lorien)** [![GitHub stars](https://img.shields.io/github/stars/mbrlabs/Lorien?style=social&color=white)](https://github.com/mbrlabs/Lorien/stargazers)  
+- **[Lorien](https://github.com/mbrlabs/Lorien)** [![GitHub_Stars](https://img.shields.io/github/stars/mbrlabs/Lorien?style=social&color=white)](https://github.com/mbrlabs/Lorien/stargazers)  
   Infinite canvas drawing and note-taking application (MIT) built on the Godot engine. Focused on fast performance, smooth freehand brushstrokes, infinite canvas zoom/pan, cross-platform desktop support (Windows, Linux, macOS), and a distraction-free UI.
 
-- **[OpenBoard](https://github.com/OpenBoard-org/OpenBoard)** [![GitHub stars](https://img.shields.io/github/stars/OpenBoard-org/OpenBoard?style=social&color=white)](https://github.com/OpenBoard-org/OpenBoard/stargazers)  
+- **[OpenBoard](https://github.com/OpenBoard-org/OpenBoard)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenBoard-org/OpenBoard?style=social&color=white)](https://github.com/OpenBoard-org/OpenBoard/stargazers)  
   Open-source cross-platform interactive whiteboard application (GPL-3.0) designed for schools, universities, and presentations. Supports stylus pen tablets, interactive widgets, document annotation, podcasting/screen recording, and PDF imports.
 
-- **[Whitebophir](https://github.com/lovasoa/whitebophir)** [![GitHub stars](https://img.shields.io/github/stars/lovasoa/whitebophir?style=social&color=white)](https://github.com/lovasoa/whitebophir/stargazers)  
+- **[Whitebophir](https://github.com/lovasoa/whitebophir)** [![GitHub_Stars](https://img.shields.io/github/stars/lovasoa/whitebophir?style=social&color=white)](https://github.com/lovasoa/whitebophir/stargazers)  
   Simple, lightweight, real-time collaborative whiteboard (AGPL-3.0) built with Node.js and WebSockets. Allows multiple users to draw simultaneously on a persistent board with zero setup friction and Docker deployment.
 
-- **[Revezone](https://github.com/revezone/revezone)** [![GitHub stars](https://img.shields.io/github/stars/revezone/revezone?style=social&color=white)](https://github.com/revezone/revezone/stargazers)  
+- **[Revezone](https://github.com/revezone/revezone)** [![GitHub_Stars](https://img.shields.io/github/stars/revezone/revezone?style=social&color=white)](https://github.com/revezone/revezone/stargazers)  
   Lightweight, local-first graphic-centric productivity workspace (AGPL-3.0). Combines Excalidraw and Tldraw visual whiteboards with Notion-like structured markdown notes, bidirectional linking, and offline desktop sync.
 
-- **[Spacedeck Open](https://github.com/spacedeck/spacedeck-open)** [![GitHub stars](https://img.shields.io/github/stars/spacedeck/spacedeck-open?style=social&color=white)](https://github.com/spacedeck/spacedeck-open/stargazers)  
+- **[Spacedeck Open](https://github.com/spacedeck/spacedeck-open)** [![GitHub_Stars](https://img.shields.io/github/stars/spacedeck/spacedeck-open?style=social&color=white)](https://github.com/spacedeck/spacedeck-open/stargazers)  
   Web-based, real-time collaborative whiteboard application (AGPL-3.0) with rich media support. Enables teams to arrange notes, shapes, audio, video, and documents collaboratively on infinite zoomable spaces.
 
-- **[Whiteboard (cracker0dks)](https://github.com/cracker0dks/whiteboard)** [![GitHub stars](https://img.shields.io/github/stars/cracker0dks/whiteboard?style=social&color=white)](https://github.com/cracker0dks/whiteboard/stargazers)  
+- **[Whiteboard (cracker0dks)](https://github.com/cracker0dks/whiteboard)** [![GitHub_Stars](https://img.shields.io/github/stars/cracker0dks/whiteboard?style=social&color=white)](https://github.com/cracker0dks/whiteboard/stargazers)  
   Lightweight collaborative whiteboard and sketchboard (MIT). Built with Node.js and HTML5 canvas, supports real-time co-drawing, undo/redo synchronization, image uploading, and simple self-hosting.
 
-- **[OurBoard](https://github.com/raimohanska/ourboard)** [![GitHub stars](https://img.shields.io/github/stars/raimohanska/ourboard?style=social&color=white)](https://github.com/raimohanska/ourboard/stargazers)  
+- **[OurBoard](https://github.com/raimohanska/ourboard)** [![GitHub_Stars](https://img.shields.io/github/stars/raimohanska/ourboard?style=social&color=white)](https://github.com/raimohanska/ourboard/stargazers)  
   Lightweight online collaborative whiteboard with sticky notes, drawings, and images. Features instant real-time synchronization over WebSockets and simple deployment.
 
-- **[Nextcloud Whiteboard](https://github.com/nextcloud/whiteboard)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/whiteboard?style=social&color=white)](https://github.com/nextcloud/whiteboard/stargazers)  
+- **[Nextcloud Whiteboard](https://github.com/nextcloud/whiteboard)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/whiteboard?style=social&color=white)](https://github.com/nextcloud/whiteboard/stargazers)  
   Collaborative infinite canvas whiteboard integrated directly into the Nextcloud ecosystem (AGPL-3.0). Supports shapes, drawing, sticky notes, and seamless integration with Nextcloud Files and permissions.
 
-- **[Tableau Noir](https://github.com/tableaunoir/tableaunoir)** [![GitHub stars](https://img.shields.io/github/stars/tableaunoir/tableaunoir?style=social&color=white)](https://github.com/tableaunoir/tableaunoir/stargazers)  
+- **[Tableau Noir](https://github.com/tableaunoir/tableaunoir)** [![GitHub_Stars](https://img.shields.io/github/stars/tableaunoir/tableaunoir?style=social&color=white)](https://github.com/tableaunoir/tableaunoir/stargazers)  
   Interactive online blackboard and whiteboard (GPL-3.0) designed for teaching, tutoring, and presentations. Offers virtual fridge magnets, multi-board pagination, recording, and smooth drawing in a lightweight UI.
 
-- **[Diwan](https://github.com/vul-os/diwan)** [![GitHub stars](https://img.shields.io/github/stars/vul-os/diwan?style=social&color=white)](https://github.com/vul-os/diwan/stargazers)  
+- **[Diwan](https://github.com/vul-os/diwan)** [![GitHub_Stars](https://img.shields.io/github/stars/vul-os/diwan?style=social&color=white)](https://github.com/vul-os/diwan/stargazers)  
   Self-hostable collaborative office suite shipped as a single Go binary (Apache-2.0 / MIT). Features an Excalidraw-based whiteboard with CRDT peer-to-peer sync and end-to-end encryption over WebRTC, alongside docs and spreadsheets.
 
 ---
