@@ -1,115 +1,75 @@
-# Awesome-Online-Collaborative-Whiteboard
+# 🎨 Awesome Online Collaborative Whiteboard
 
-## Top Online Collaborative Whiteboard Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Online Collaborative Whiteboard Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Collaborative-Whiteboard?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Collaborative-Whiteboard?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Collaborative-Whiteboard/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 📌 Top Online Collaborative Whiteboard Ecosystem
 
-*Focused on Infinite Canvas, Real-Time Collaboration & Self-Hosted Visual Workspaces*  
+**A Curated List of SaaS Platforms & Open-Source Infinite Canvas Workspaces**  
+*Focused on Infinite Canvas, Real-Time Multiplayer Collaboration & Self-Hosted Visual Workspaces*  
+**Last updated:** November 2026
 
-**Last updated: November 2026**
+Welcome to the comprehensive directory of **online collaborative whiteboards**, **visual collaboration suites**, and **infinite canvas software**. Whether you need an enterprise-grade digital whiteboard for cross-functional agile workshops or a self-hosted, end-to-end encrypted visual canvas, this guide compares features, company scale, transparent starting pricing, and exact free-tier limits.
 
+---
 
+## 📖 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Online Collaborative Whiteboards**. These tools enable teams to sketch ideas, diagram systems, run workshops, and visualize thinking together on an infinite canvas—turning meetings and brainstorming into persistent, shareable artifacts.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Whiteboard Platforms](#️-saas--hosted-whiteboard-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include Atlassian Whiteboards, Miro, Mural, FigJam, Lucidspark, Canva Whiteboards, Webex Whiteboard, Conceptboard, Klaxoon, and Stormboard (the category leaders).
+The global collaborative whiteboard software market is valued at approximately **$2.6 billion to $3.1 billion** and is projected to expand to over **$7.5 billion by 2032**, registering a robust CAGR of ~14.8%. 
 
+The market dynamics exhibit **moderate fragmentation transitioning toward an oligopoly**: general-purpose enterprise visual collaboration is dominated by heavyweight platform leaders (Cisco Webex, Atlassian, Canva, Miro, and Figma/FigJam), while nimble open-source and specialized local-first canvas engines (Excalidraw, AFFiNE, and Penpot) continue to capture significant developer, privacy-conscious, and self-hosted developer share.
 
+---
 
-**Open-source emphasis**: Collaborative Whiteboard is a domain where open-source tooling is **genuinely mature but carries a critical licensing fork**. **Excalidraw** is the clear standout—MIT-licensed, 134k+ GitHub stars, with a distinctive hand-drawn aesthetic, real-time collaboration via a separate `excalidraw-room` server, component libraries, and exports to PNG/SVG . **tldraw** offers a more polished, Figma-like canvas with richer shape/tool plugins, but **it is source-available, not open source**—since SDK 4.0 (September 2025), production use requires a license key (100-day trial, free hobby license with watermark, or commercial license via sales, reported around $6k/year for small teams) . **AFFiNE** combines docs, whiteboards, and databases in one local-first workspace (MIT editor, source-available backend), self-hostable with Docker, free for up to 10 seats . **Diwan** takes a different approach—a single Go binary with an Excalidraw-based whiteboard, CRDT-native peer-to-peer sync over end-to-end encryption, and full self-hosting with no cloud dependency . The critical caveat: **if OSI-approved licensing is a hard requirement, tldraw is disqualified**—Excalidraw and Diwan are the safe choices .
+## ☁️ SaaS & Hosted Whiteboard Platforms
 
+*Ranked in descending order of company size (Market Capitalization / Enterprise Valuation).*
 
+| Platform | Company Valuation / Revenue | Starting Paid Tier Pricing | Free Tier / Free Trial Limits | Key Focus & Strengths |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Webex Whiteboard](https://www.webex.com/)** | **~$220B Market Cap** *(Cisco Systems)* | **$12.00 /user/month** *(Webex Meet plan billed annually)* | **Free forever plan:** Up to 100 meeting attendees, 40-minute meeting limit, and basic whiteboard access. | Enterprise visual canvas integrated directly with Cisco Webex conferencing gear, room kits, and secure meeting workflows. |
+| **[Atlassian Whiteboards](https://www.atlassian.com/)** | **~$55B Market Cap** *(Atlassian Corporation)* | **$8.15 /user/month** *(Confluence Standard)* | **Free forever plan:** Free for up to 10 users across Jira & Confluence with unlimited whiteboards. | Deep bi-directional syncing with Jira issues, Confluence docs, smart sections, and sprint planning boards. |
+| **[Canva Whiteboards](https://www.canva.com/)** | **~$26B Valuation** *(Canva Pty Ltd)* | **$12.99 /user/month** *(Canva Pro)* | **Free forever plan:** 3 free whiteboards, 5 GB cloud storage, and access to 1M+ free stock assets and templates. | Freeform collaborative brainstorms that blend directly into presentation slides, social media graphics, and print media. |
+| **[Miro](https://miro.com/)** | **~$17.5B Valuation** *(RealtimeBoard, Inc.)* | **$8.00 /user/month** *(Starter plan billed annually)* | **Free forever plan:** 3 editable boards, unlimited team members, core template library, and basic integrations. | The benchmark enterprise infinite canvas platform featuring timers, voting, video chat, and 130+ app integrations. |
+| **[FigJam](https://www.figma.com/figjam/)** | **~$12.5B Valuation** *(Figma, Inc.)* | **$3.00 /user/month** *(FigJam Standard billed annually)* | **Free forever plan:** 3 shared Figma/FigJam files with unlimited collaborators, music player, and plugins. | Intuitive diagramming and design sprints tightly connected to Figma design libraries, design tokens, and components. |
+| **[Lucidspark](https://lucid.co/)** | **~$3.0B Valuation** *(Lucid Software Inc.)* | **$7.95 /user/month** *(Individual plan billed annually)* | **Free forever plan:** 3 editable Lucidspark boards, up to 60 objects per board, and basic collaboration features. | Brainstorming and workshop hub with native bi-directional integration into Lucidchart architecture diagrams. |
+| **[Mural](https://www.mural.co/)** | **~$2.0B Valuation** *(Tactivos Inc.)* | **$9.99 /user/month** *(Team+ plan billed annually)* | **Free forever plan:** 3 active murals, unlimited team members, infinite canvas, and facilitation templates. | Purpose-built facilitation tool for agile ceremonies, design-thinking workshops, and structured guided team meetings. |
+| **[Klaxoon](https://klaxoon.com/)** | **~$500M Valuation** *(Klaxoon SAS)* | **$9.00 /user/month** *(Starter plan billed annually)* | **Free forever plan:** 1 active whiteboard activity, up to 300 participants, and pre-built activity templates. | Engaging collaborative workshop suite featuring gamified quizzes, surveys, polls, and agile sprint boards. |
+| **[Conceptboard](https://conceptboard.com/)** | **~$50M - $100M Valuation** *(Conceptboard GmbH)* | **$6.00 /user/month** *(Premium plan billed annually)* | **Free forever plan:** 1 board, 100 visual objects, 500 MB file storage, and unlimited participants. | GDPR-compliant European enterprise whiteboard platform designed for security-sensitive visual team collaboration. |
+| **[Stormboard](https://stormboard.com/)** | **~$20M - $50M Valuation** *(Stormboard Inc.)* | **$8.33 /user/month** *(Business plan billed annually)* | **Free forever plan:** 5 active Storms (boards), up to 5 users per Storm, basic templates, and export tools. | Structured sticky note ideation and executive reporting engine that translates brainstorming into spreadsheets and decks. |
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Atlassian Whiteboards](https://www.atlassian.com/)**  
-
-  Whiteboard capability within the Atlassian ecosystem; integrates with Jira and Confluence for collaborative planning and diagramming alongside work items.
-
-
-
-- **[Miro](https://miro.com/)**  
-
-  The market-leading collaborative whiteboard platform; infinite canvas with templates, voting, timers, and integrations across the enterprise stack. The benchmark against which all alternatives are measured.
-
-
-
-- **[Mural](https://www.mural.co/)**  
-
-  Collaborative whiteboard focused on guided workshops and team facilitation; strong for design thinking and agile ceremonies.
-
-
-
-- **[FigJam](https://www.figma.com/figjam/)**  
-
-  Figma's whiteboard tool; integrates tightly with Figma design files for collaborative brainstorming that flows into design work.
-
-
-
-- **[Lucidspark](https://lucid.co/)**  
-
-  Collaborative whiteboard within the Lucid suite; integrates with Lucidchart for diagramming and visual collaboration.
-
-
-
-- **[Canva Whiteboards](https://www.canva.com/)**  
-
-  Whiteboard capability within Canva's design platform; combines freeform collaboration with Canva's template and asset library.
-
-
-
-- **[Webex Whiteboard](https://www.webex.com/)**  
-
-  Whiteboard within Cisco Webex; integrates with Webex meetings for real-time visual collaboration during calls.
-
-
-
-- **[Conceptboard](https://conceptboard.com/)**  
-
-  Visual collaboration platform with whiteboards, project management, and feedback tools; positioned for enterprise teams.
-
-
-
-- **[Klaxoon](https://klaxoon.com/)**  
-
-  Collaborative workshop platform with whiteboards, quizzes, and activities; focused on engaging meetings and training.
-
-
-
-- **[Stormboard](https://stormboard.com/)**  
-
-  Digital sticky note and whiteboard platform; focused on structured brainstorming and decision-making.
-
-
-
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 *Sorted by GitHub Star count in descending order.*
 
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
-  The leading OSI-approved open-source virtual whiteboard (MIT). Features a distinctive hand-drawn aesthetic, infinite canvas with shapes, arrows, freehand, text, images, and real-time multiplayer collaboration via WebSocket (xcalidraw-room). Includes component libraries, local-first in-browser rendering with minimal server footprint, and export to PNG, SVG, or native format.
+  The leading OSI-approved open-source virtual whiteboard (MIT). Features a distinctive hand-drawn aesthetic, infinite canvas with shapes, arrows, freehand, text, images, and real-time multiplayer collaboration via WebSocket (`excalidraw-room`). Includes component libraries, local-first in-browser rendering with minimal server footprint, and export to PNG, SVG, or native format.
 
 - **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   An open-source, local-first knowledge base combining docs, infinite whiteboard canvas, and multidimensional tables in one unified workspace. Every page can toggle between structured document, whiteboard diagram, and database view. Offers offline-first local storage, AI-assisted mind mapping, and self-hosting with Docker.
@@ -159,42 +119,44 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Diwan](https://github.com/vul-os/diwan)** [![GitHub stars](https://img.shields.io/github/stars/vul-os/diwan?style=social&color=white)](https://github.com/vul-os/diwan/stargazers)  
   Self-hostable collaborative office suite shipped as a single Go binary (Apache-2.0 / MIT). Features an Excalidraw-based whiteboard with CRDT peer-to-peer sync and end-to-end encryption over WebRTC, alongside docs and spreadsheets.
 
-## How to Contribute
+---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! Help make this curated whiteboard directory even better:
 
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Collaborative whiteboard platforms handling team content must comply with organizational data governance policies; **self-hosted solutions place full responsibility for security, backups, and uptime on the operator**.
-
-- **Open-source whiteboarding is mature but carries a critical licensing fork**—Excalidraw is MIT and the safest choice , while **tldraw is source-available, not open source**, and requires a license key for production use since SDK 4.0 (reported ~$6k/year for small teams) . **If OSI-approved licensing is a hard requirement, tldraw is disqualified**. AFFiNE's backend is source-available under its EE license, though the editor is MIT .
-
-- Verify license terms for commercial use; Excalidraw uses MIT , Diwan uses MIT , tldraw uses a custom source-available license requiring production keys , and AFFiNE uses MIT for the editor with a source-available backend .
-
-
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/edit** entries in `README.md` following the established table and list formatting.
+3. 🔍 **Include** verified details: platform name, link, specific pricing, free tier limits, and open-source license.
+4. 🚀 **Submit** a pull request with a concise summary of your addition.
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Online-Collaborative-Whiteboard&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Online-Collaborative-Whiteboard&type=date&legend=top-left)
 
-**Made for product teams, designers, facilitators, and organizations choosing their visual collaboration stack.**  
+---
 
-Let's make collaborative whiteboarding more open, but with clear eyes about the licensing fork that separates true open source from source-available traps.
+## 💖 Support
+
+If you find this curated collection valuable, please consider supporting the project:
+
+- ⭐ **Star** this repository to help other engineers and teams discover it.
+- 🍴 **Fork** and contribute new tools, updates, and benchmarks.
+- 📢 **Share** it with your fellow developers, product designers, and agile facilitators.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated ecosystems, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Thank you for your support! 🙌
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an independent, community-curated directory — not an endorsement of any commercial platform or company.
+- Collaborative whiteboard platforms handling sensitive team documents, blueprints, and meeting records must align with organizational data privacy and compliance guidelines. **Self-hosted software places full operational responsibility (backups, security, and uptime) on the operator**.
+- **Licensing Alert**: True open-source solutions (e.g., Excalidraw, Penpot, Drawnix) offer unrestricted OSI-compliant licenses, whereas projects like tldraw follow a source-available commercial model requiring paid licensing for production software deployments.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for product teams, visual thinkers, facilitators, and software architects worldwide.</b>
+</p>
