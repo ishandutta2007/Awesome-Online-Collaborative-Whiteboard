@@ -61,6 +61,7 @@ The market dynamics exhibit **moderate fragmentation transitioning toward an oli
 | **[Klaxoon](https://klaxoon.com/)** | **~$500M Valuation** *(Klaxoon SAS)* | **$9.00 /user/month** *(Starter plan billed annually)* | **Free forever plan:** 1 active whiteboard activity, up to 300 participants, and pre-built activity templates. | Engaging collaborative workshop suite featuring gamified quizzes, surveys, polls, and agile sprint boards. |
 | **[Conceptboard](https://conceptboard.com/)** | **~$50M - $100M Valuation** *(Conceptboard GmbH)* | **$6.00 /user/month** *(Premium plan billed annually)* | **Free forever plan:** 1 board, 100 visual objects, 500 MB file storage, and unlimited participants. | GDPR-compliant European enterprise whiteboard platform designed for security-sensitive visual team collaboration. |
 | **[Stormboard](https://stormboard.com/)** | **~$20M - $50M Valuation** *(Stormboard Inc.)* | **$8.33 /user/month** *(Business plan billed annually)* | **Free forever plan:** 5 active Storms (boards), up to 5 users per Storm, basic templates, and export tools. | Structured sticky note ideation and executive reporting engine that translates brainstorming into spreadsheets and decks. |
+| **[Novastart](https://novastart.com/)** | Pre-revenue; bootstrapped | **$10/month** (Pro); **$20/user/month** (Team) | **Free plan available**; see website for current usage limits. | The Infinite Canvas Whiteboard OS: infinite canvas for apps, shared canvases, and AI agents on the canvas. Built with Rust. |
 
 ---
 
